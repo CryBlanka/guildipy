@@ -48,7 +48,7 @@ You can customize the script by modifying the values in the script, such as emoj
 If there are any issues with Guildipy accessing your Guilded account, double-check the provided cookies.
 
 ### Contributors
-- [/u/Blanka](https://www.guilded.gg/u/blanka)
+- [/u/blanka](https://www.guilded.gg/u/blanka)
 
 
 ### License
