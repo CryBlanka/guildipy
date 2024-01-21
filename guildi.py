@@ -30,7 +30,7 @@ GUILDIPY_ART = '''
                           | |     __/ |
                           |_|    |___/ 
 \n'''
-GUILDIPY_INFO = 'Guildipy, a Guilded x Spotify integration. Made with love by Blanka 💜\n'
+GUILDIPY_INFO = '\nGuildipy, a Guilded x Spotify integration. Made with love by Blanka 💜\nGuildipy is Open Source project available on Github at: https://github.com/Clippsly/guildipy'
 GUILDIPY_ERROR_LOGIN = 'Guildipy was unable to access your Guilded account, please check the cookies.'
 GUILDIPY_ERROR_UNKNOWN = 'Guildipy found an unknown error.'
 GUILDIPY_CURRENT_STATUS_NONE = 'Not currently playing'
