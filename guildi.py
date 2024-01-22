@@ -37,7 +37,6 @@ GUILDIPY_CURRENT_STATUS_NONE = 'Not currently playing'
 GUILDIPY_CURRENT_STATUS_PAUSED = 'Not currently playing (Paused)'
 GUILDIPY_CURRENT_STATUS_ACTIVE = 'Listening'
 GUILDIPY_EMOTE_ID = 2211233 # Default Spotify emoji id.
-GUILDIPY_CALLBACK_TEXT = 'Callback received! You can close this window.'
 
 # Spotify API credentials
 SPOTIPY_CLIENT_ID = '' # Change to your Spotify client id.
@@ -146,7 +145,7 @@ def callback():
     global callback_data
     callback_data = request.args
 
-    return GUILDIPY_CALLBACK_TEXT
+    return 'Callback received! You can close this window.'
 
 def run_flask():
     sys.stdout = open(".flask-guildipy", "w")
