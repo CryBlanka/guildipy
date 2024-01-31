@@ -10,7 +10,7 @@ Guildipy is a Python script that integrates Guilded, with Spotify. It allows you
 
 ## Possible risks?
 
-**Guildipy is NOT made by Guilded**
+**Guildipy is NOT made by Guilded**.
 As Guildipy is using Guilded's endpoints it may violate Guilded's [Terms of Use](https://support.guilded.gg/hc/en-us/articles/360039728313-Terms-of-Use), you're using it on your own risk.
 For safety don't change any time values or don't send to much requests at once.
 
